@@ -1,0 +1,47 @@
+{
+  "spriteId": {
+    "name": "sprite_prop_bookshelf",
+    "path": "sprites/sprite_prop_bookshelf/sprite_prop_bookshelf.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "object_prop",
+    "path": "objects/object_prop/object_prop.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": -1,
+  "physicsDensity": 75.0,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 1.0,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":20.0,},
+    {"x":28.0,"y":20.0,},
+    {"x":28.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"collision_density","path":"objects/object_prop/object_prop.yy",},"objectId":{"name":"object_prop","path":"objects/object_prop/object_prop.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"speed_factor","path":"objects/object_throwable/object_throwable.yy",},"objectId":{"name":"object_throwable","path":"objects/object_throwable/object_throwable.yy",},"value":"0.6","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "props",
+    "path": "folders/Objects/props.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "object_prop_bookshelf",
+  "tags": [],
+  "resourceType": "GMObject",
+}

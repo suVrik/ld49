@@ -1,0 +1,48 @@
+{
+  "spriteId": {
+    "name": "sprite_prop_vase",
+    "path": "sprites/sprite_prop_vase/sprite_prop_vase.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "object_prop",
+    "path": "objects/object_prop/object_prop.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": -6,
+  "physicsDensity": 10.0,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 1.0,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": true,
+  "physicsShapePoints": [
+    {"x":3.0,"y":10.0,},
+    {"x":11.0,"y":10.0,},
+    {"x":11.0,"y":15.0,},
+    {"x":3.0,"y":15.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"collision_height","path":"objects/object_prop/object_prop.yy",},"objectId":{"name":"object_prop","path":"objects/object_prop/object_prop.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"collision_width","path":"objects/object_prop/object_prop.yy",},"objectId":{"name":"object_prop","path":"objects/object_prop/object_prop.yy",},"value":"8","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"collision_density","path":"objects/object_prop/object_prop.yy",},"objectId":{"name":"object_prop","path":"objects/object_prop/object_prop.yy",},"value":"30","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "props",
+    "path": "folders/Objects/props.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "object_prop_vase",
+  "tags": [],
+  "resourceType": "GMObject",
+}
